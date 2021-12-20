@@ -5,9 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/laluchib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laluchib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luciana-belleggia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciana-belleggia" height="30" width="40" /></a>
-<a href="https://fb.com/luciana belleggia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luciana belleggia" height="30" width="40" /></a>
+<a href="https://fb.com/luciana.belleggia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luciana belleggia" height="30" width="40" /></a>
 <a href="https://instagram.com/luzb86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luzb86" height="30" width="40" /></a>
 </p>
 
