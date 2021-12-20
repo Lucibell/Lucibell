@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciana</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **group project from Henry Bootcamp**
+- 🔭 I’m currently working on **a group project from Henry Bootcamp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
